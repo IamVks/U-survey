@@ -27,11 +27,14 @@ class Usurvey extends Component {
     answerSelected(){
         //TODO:work on this
     }
+    answerSelecteds(){
+        //TODO:work on this
+    }
 
     questionSubmit(){
         //TODO:work on this
     }
-
+//sample
     constructor(props) {
         super(props)
         this.state = {
@@ -48,6 +51,7 @@ class Usurvey extends Component {
         this.answerSelected = this.answerSelected.bind(this)
         this.questionSubmit = this.questionSubmit.bind(this)
     }
+    
     
     render() {
 
