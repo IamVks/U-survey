@@ -27,10 +27,6 @@ class Usurvey extends Component {
     answerSelected(){
         //TODO:work on this
     }
-    answerSelecteds(){
-        //TODO:work on this
-    }
-
     questionSubmit(){
         //TODO:work on this
     }
